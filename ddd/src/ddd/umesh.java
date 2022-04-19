@@ -13,6 +13,7 @@ public class umesh {
 		l2.add("Nilesh");
 		System.out.println(l1);
 		System.out.println(l2);
+		System.out.println(l2);
 	}
 
 }
